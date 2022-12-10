@@ -16,6 +16,7 @@ function App() {
         <p style={style.merah}>Hello World</p>
         <h1 style={{backgroundColor: "red", color:"white"}}>Akhmad Sakhoji Jamaludin</h1>
         <Orang nama="Akhmad Sakhoji Jamaludin" alamat="Tegal"/>
+        <img src="/img/LOGO UNPAM.png" alt="" height="100px" width="100px"/>
         <ul>
           <li>
             <Link to="/">Home</Link>
